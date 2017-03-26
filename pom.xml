@@ -36,7 +36,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>nyc.c4q.dereksantos.server.SpotifyServer</mainClass>
+                            <mainClass>nyc.c4q.dereksantos.server.SpotifyServe</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
